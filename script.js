@@ -56,10 +56,10 @@
 const messages = [
     "Você tem certeza?",
     "Certeza mesmo??",
-    "Você é positiva?",
+    "É sério que você vai negar, xuxu?",
     "Aceita por favor...",
     "Acho que você deveria apenas aceitar!",
-    "Se você dizer não, vou ficar bem triste...",
+    "Se você optar pelo não, vou ficar bem triste...",
     "Eu vou ficar muito triste...",
     "Eu vou ficar muito muito MUITO triste...",
     "Tudo bem, vou parar de perguntar...",
